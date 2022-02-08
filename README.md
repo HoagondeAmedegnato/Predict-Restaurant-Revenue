@@ -19,3 +19,8 @@ IV.	***Findings and Takeaways***
 ____
 I.	***Introduction***
 
+A **fast food restaurant**, also known as a **quick service restaurant (QSR)** within the industry, is a specific type of restaurant that serves fast food cuisine and has minimal table service. The food served in fast food restaurants is typically part of a "meat-sweet diet", offered from a limited menu, cooked in bulk in advance and kept hot, finished and packaged to order, and usually available for take away, though seating may be provided. 
+
+The restaurant is increasing in term of the demand, and as a consequent, is increasing in revenue. Predicting the restaurant revenue for the future is crucial for me as I am determinate and motivated in doing so. This analysis will help me to know more about the future revenue of the restaurant.
+____
+II.	***Data Collection and Data Preprocessing***
