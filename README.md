@@ -13,7 +13,7 @@ I.	***Introduction***
 
 II.	***Data Collection and Data Preprocessing***
 
-III.***Exploratory Data Analysis and Model Development***: EDA&MODEL.ipynb
+III. ***Exploratory Data Analysis and Model Development***: EDA&MODEL.ipynb
 
 IV.	***Findings and Takeaways***
 ____
@@ -24,3 +24,21 @@ A **fast food restaurant**, also known as a **quick service restaurant (QSR)** w
 The restaurant is increasing in term of the demand, and as a consequent, is increasing in revenue. Predicting the restaurant revenue for the future is crucial for me as I am determinate and motivated in doing so. This analysis will help me to know more about the future revenue of the restaurant.
 ____
 II.	***Data Collection and Data Preprocessing***
+
+The datasets I use, is from Kaggle website (Data Source: https://www.kaggle.com/sanamps/predict-restaurant-revenue), where two files (train.csv with 43 columns and test.csv with 42 columns) have been provided. The columns names are as follow:
+* Id
+* Open Date
+* City
+* City Group
+* Type
+* P1, P2, P3…. P37
+* Revenue
+The train.csv file has 137 rows, and the test.csv file has 100000 rows.
+
+I’ve downloaded the two files CSV from the Kaggle website and save them into my Google Drive, created a Google Colaboratory for the notebook, called EDA&MODEL, in order to analyze, visualize the dataset and to develop the model using the Supervised Machine Learning techniques.
+The notebook EDA&MODEL is subdivided into two (2) parts:
+* *Exploratory Data Analysis (EDA)*, where I’ve explored the analysis for the overall dataset, proceeded with the visualizations
+* *Model Development*, where I’ve calculated the Accuracy Score on the training data and the R-Squared Score on the test data, using the Supervised Machine Learning techniques, such as Logistic Regression, Decision Tree, Support Vector Machines, Random Forest, and XGBoost.
+____
+III. ***Exploratory Data Analysis and Model Development***: EDA&MODEL.ipynb
+
