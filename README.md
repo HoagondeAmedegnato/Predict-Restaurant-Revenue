@@ -26,13 +26,17 @@ ____
 II.	***Data Collection and Data Preprocessing***
 
 The datasets I use, is from Kaggle website (Data Source: https://www.kaggle.com/sanamps/predict-restaurant-revenue), where two files (train.csv with 43 columns and test.csv with 42 columns) have been provided. The columns names are as follow:
-* Id
-* Open Date
-* City
-* City Group
-* Type
-* P1, P2, P3…. P37
+* Id: Restaurant ID
+* Open Date: Opening Date of a restaurant
+* City: City where restaurant is located
+* City Group: Type of the city, Big cities, or Other.
+* Type: Type of the restaurant. FC: Food Court, IL: Inline
+* P1, P2, P3…. P37: There are three categories of these obfuscated data:
+ -- Demographic data are gathered from third party providers with GIS systems. These include population in any given area, age and gender distribution, development scales.
+ -- Real estate data mainly relate to the m2 of the location, front facade of the location, car park availability.
+ -- Commercial data mainly include the existence of points of interest including schools, banks, other QSR operators.
 * Revenue
+
 The train.csv file has 137 rows, and the test.csv file has 100000 rows.
 
 I’ve downloaded the two files CSV from the Kaggle website and save them into my Google Drive, created a Google Colaboratory for the notebook, called EDA&MODEL, in order to analyze, visualize the dataset and to develop the model using the Supervised Machine Learning techniques.
