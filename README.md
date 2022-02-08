@@ -48,3 +48,6 @@ III. ***Exploratory Data Analysis and Model Development***: EDA&MODEL.ipynb
 
 
 In term of the *Model Development*: In order to develop the model, I’ve used the Supervised Machine Learning techniques to improve the process efficiency. Machine Learning models are able to learn from patterns of normal behavior. I’ve calculated the Accuracy Score on the training data and the R-Squared Score on the test data. Below is the result:
+
+![image](https://user-images.githubusercontent.com/79173300/152919740-7e3c7d0a-394e-4d35-ac88-a25be073263c.png)
+
