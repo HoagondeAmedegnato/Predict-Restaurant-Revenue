@@ -1,7 +1,7 @@
 # Predict-Restaurant-Revenue
 ***Its an assignment task to predict the revenue of restaurant***
 
-![image](https://user-images.githubusercontent.com/79173300/152890377-22c9fce0-1886-4873-a9c4-9483d2594b19.png)
+![image](https://user-images.githubusercontent.com/79173300/152935398-39a4fc80-88dd-48f4-9f0c-a2977e648406.png)
 
 ____
 
