@@ -57,3 +57,5 @@ I've received 100% Accuracy Score on Training data and -3.26% R-Squared Score on
 
 * Logistic Regression and Support Vector Machines are the WINNERS, since they represent the highest score.
 * In term of an accuracy score of the training data, both have the same score of 1.0 and in term of the R-Squared score on test data, Support Vector Machines scored -0.03260285700632415 and Logistic Regression scored -0.3594897101086121.
+____
+IV.	***Findings and Takeaways***
