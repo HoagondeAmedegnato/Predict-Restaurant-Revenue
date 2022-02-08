@@ -35,7 +35,7 @@ The datasets I use, is from Kaggle website (Data Source: https://www.kaggle.com/
  -- Demographic data are gathered from third party providers with GIS systems. These include population in any given area, age and gender distribution, development scales.
  -- Real estate data mainly relate to the m2 of the location, front facade of the location, car park availability.
  -- Commercial data mainly include the existence of points of interest including schools, banks, other QSR operators.
-* Revenue
+* Revenue: The revenue column indicates transformed revenue of the restaurant in a given year and is the target of predictive analysis
 
 The train.csv file has 137 rows, and the test.csv file has 100000 rows.
 
