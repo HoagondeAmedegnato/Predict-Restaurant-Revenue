@@ -46,7 +46,29 @@ The notebook EDA&MODEL is subdivided into two (2) parts:
 ____
 III. ***Exploratory Data Analysis and Model Development***: EDA&MODEL.ipynb
 
-In term of the *Exploratory Data Analysis*, I’ve examined and analyzed the dataset, and then proceeded to the visualizations. Several plots have been made:
+In term of the *Exploratory Data Analysis*, I’ve examined and analyzed the dataset, and then proceeded to the visualizations. Several plots have been made, for example:
+
+* I've analyzed the distribution of the revenue
+![image](https://user-images.githubusercontent.com/79173300/152931804-4c2511f2-da72-4a92-a8f7-0a671900d701.png)
+
+* I've counted by plot the feature "City Group"
+![image](https://user-images.githubusercontent.com/79173300/152932138-0e92d044-92b5-4d7c-820b-b841e1aef5df.png)
+
+* I've calculated the Correlation Matrix of the dataset, by selecting some variables
+![image](https://user-images.githubusercontent.com/79173300/152932386-56f3e298-2934-4d01-91a8-ca27c2d1fecf.png)
+Note that:
+
+*There is a strong correlation of 0.97 between P9 and P12, which correlation is close to 1, means that there is a large positive relationship.*
+
+*There is a strong correlation of 0.96 between P9 and P10, which correlation is close to 1, means that there is a large positive relationship.*
+
+*There is a strong correlation of 0.93 between P10 and P12, which correlation is close to 1, means that there is a large positive relationship.*
+
+*There is a correlation of -0.025 between P3 and revenue, which correlation is close to 0, means that there is no relationship.*
+
+*There is a correlation of -0.028 between P5 and revenue, which correlation is close to 0, means that there is no relationship.*
+
+*There is a correlation of -0.062 between P12 and revenue, which correlation is close to 0, means that there is no relationship.*
 
 
 
