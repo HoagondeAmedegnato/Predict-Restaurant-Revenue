@@ -76,7 +76,7 @@ In term of the *Model Development*: In order to develop the model, I’ve used t
 
 ![image](https://user-images.githubusercontent.com/79173300/152919740-7e3c7d0a-394e-4d35-ac88-a25be073263c.png)
 
-**Conclusion in Selection of the Model**
+**Conclusion in Selecting the Model**
 
 I've received 100% Accuracy Score on Training data and -3.26% R-Squared Score on Test data in my "Predict Restaurant Revenue"; this means that:
 
@@ -84,3 +84,5 @@ I've received 100% Accuracy Score on Training data and -3.26% R-Squared Score on
 * In term of an accuracy score of the training data, both have the same score of 1.0 and in term of the R-Squared score on test data, Support Vector Machines scored -0.03260285700632415 and Logistic Regression scored -0.3594897101086121.
 ____
 IV.	***Findings and Takeaways***
+
+This project is made using the Supervised Machine Learning techniques, which give great predictions. But it's good to use the Unsupervised Machine Learning, such as Principal Component Analysis, K-Means, and some Deep Learning models.
