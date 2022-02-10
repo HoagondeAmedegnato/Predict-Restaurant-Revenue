@@ -86,3 +86,12 @@ ____
 IV.	***Findings and Takeaways***
 
 This project is made using the Supervised Machine Learning techniques, which give great predictions. But it's good to use the Unsupervised Machine Learning, such as Principal Component Analysis, K-Means, and some Deep Learning models.
+
+____
+***Medium Link***
+
+A blog has been posted into medium as well. Follow this link:
+
+https://amereine69.medium.com/predict-restaurant-revenue-7ce5afc82b6
+
+
