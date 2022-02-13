@@ -94,4 +94,8 @@ A blog has been posted into medium as well. Follow this link:
 
 https://amereine69.medium.com/predict-restaurant-revenue-7ce5afc82b6
 
+____
+***GitHub Repository Link***
+
+Follow this link for my GitHub repository:
 
